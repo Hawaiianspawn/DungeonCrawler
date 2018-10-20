@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 2a9d37fbbe722be4aa4ddcde45e12885
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: creature/babyturtle/babyturtle
+    100004: creature/babyturtle/babyturtle 1
+    100006: creature/babyturtle/babyturtle_bone_0
+    100008: creature/babyturtle/babyturtle_bone_1
+    100010: creature/babyturtle/babyturtle_bone_10
+    100012: creature/babyturtle/babyturtle_bone_11
+    100014: creature/babyturtle/babyturtle_bone_12
+    100016: creature/babyturtle/babyturtle_bone_13
+    100018: creature/babyturtle/babyturtle_bone_14
+    100020: creature/babyturtle/babyturtle_bone_15
+    100022: creature/babyturtle/babyturtle_bone_16
+    100024: creature/babyturtle/babyturtle_bone_17
+    100026: creature/babyturtle/babyturtle_bone_18
+    100028: creature/babyturtle/babyturtle_bone_19
+    100030: creature/babyturtle/babyturtle_bone_2
+    100032: creature/babyturtle/babyturtle_bone_20
+    100034: creature/babyturtle/babyturtle_bone_21
+    100036: creature/babyturtle/babyturtle_bone_22
+    100038: creature/babyturtle/babyturtle_bone_23
+    100040: creature/babyturtle/babyturtle_bone_24
+    100042: creature/babyturtle/babyturtle_bone_25
+    100044: creature/babyturtle/babyturtle_bone_26
+    100046: creature/babyturtle/babyturtle_bone_27
+    100048: creature/babyturtle/babyturtle_bone_28
+    100050: creature/babyturtle/babyturtle_bone_29
+    100052: creature/babyturtle/babyturtle_bone_3
+    100054: creature/babyturtle/babyturtle_bone_30
+    100056: creature/babyturtle/babyturtle_bone_31
+    100058: creature/babyturtle/babyturtle_bone_32
+    100060: creature/babyturtle/babyturtle_bone_33
+    100062: creature/babyturtle/babyturtle_bone_34
+    100064: creature/babyturtle/babyturtle_bone_35
+    100066: creature/babyturtle/babyturtle_bone_36
+    100068: creature/babyturtle/babyturtle_bone_37
+    100070: creature/babyturtle/babyturtle_bone_38
+    100072: creature/babyturtle/babyturtle_bone_39
+    100074: creature/babyturtle/babyturtle_bone_4
+    100076: creature/babyturtle/babyturtle_bone_40
+    100078: creature/babyturtle/babyturtle_bone_41
+    100080: creature/babyturtle/babyturtle_bone_42
+    100082: creature/babyturtle/babyturtle_bone_43
+    100084: creature/babyturtle/babyturtle_bone_44
+    100086: creature/babyturtle/babyturtle_bone_45
+    100088: creature/babyturtle/babyturtle_bone_46
+    100090: creature/babyturtle/babyturtle_bone_47
+    100092: creature/babyturtle/babyturtle_bone_48
+    100094: creature/babyturtle/babyturtle_bone_49
+    100096: creature/babyturtle/babyturtle_bone_5
+    100098: creature/babyturtle/babyturtle_bone_50
+    100100: creature/babyturtle/babyturtle_bone_51
+    100102: creature/babyturtle/babyturtle_bone_52
+    100104: creature/babyturtle/babyturtle_bone_53
+    100106: creature/babyturtle/babyturtle_bone_54
+    100108: creature/babyturtle/babyturtle_bone_55
+    100110: creature/babyturtle/babyturtle_bone_56
+    100112: creature/babyturtle/babyturtle_bone_6
+    100114: creature/babyturtle/babyturtle_bone_7
+    100116: creature/babyturtle/babyturtle_bone_8
+    100118: creature/babyturtle/babyturtle_bone_9
+    400000: //RootNode
+    400002: creature/babyturtle/babyturtle
+    400004: creature/babyturtle/babyturtle 1
+    400006: creature/babyturtle/babyturtle_bone_0
+    400008: creature/babyturtle/babyturtle_bone_1
+    400010: creature/babyturtle/babyturtle_bone_10
+    400012: creature/babyturtle/babyturtle_bone_11
+    400014: creature/babyturtle/babyturtle_bone_12
+    400016: creature/babyturtle/babyturtle_bone_13
+    400018: creature/babyturtle/babyturtle_bone_14
+    400020: creature/babyturtle/babyturtle_bone_15
+    400022: creature/babyturtle/babyturtle_bone_16
+    400024: creature/babyturtle/babyturtle_bone_17
+    400026: creature/babyturtle/babyturtle_bone_18
+    400028: creature/babyturtle/babyturtle_bone_19
+    400030: creature/babyturtle/babyturtle_bone_2
+    400032: creature/babyturtle/babyturtle_bone_20
+    400034: creature/babyturtle/babyturtle_bone_21
+    400036: creature/babyturtle/babyturtle_bone_22
+    400038: creature/babyturtle/babyturtle_bone_23
+    400040: creature/babyturtle/babyturtle_bone_24
+    400042: creature/babyturtle/babyturtle_bone_25
+    400044: creature/babyturtle/babyturtle_bone_26
+    400046: creature/babyturtle/babyturtle_bone_27
+    400048: creature/babyturtle/babyturtle_bone_28
+    400050: creature/babyturtle/babyturtle_bone_29
+    400052: creature/babyturtle/babyturtle_bone_3
+    400054: creature/babyturtle/babyturtle_bone_30
+    400056: creature/babyturtle/babyturtle_bone_31
+    400058: creature/babyturtle/babyturtle_bone_32
+    400060: creature/babyturtle/babyturtle_bone_33
+    400062: creature/babyturtle/babyturtle_bone_34
+    400064: creature/babyturtle/babyturtle_bone_35
+    400066: creature/babyturtle/babyturtle_bone_36
+    400068: creature/babyturtle/babyturtle_bone_37
+    400070: creature/babyturtle/babyturtle_bone_38
+    400072: creature/babyturtle/babyturtle_bone_39
+    400074: creature/babyturtle/babyturtle_bone_4
+    400076: creature/babyturtle/babyturtle_bone_40
+    400078: creature/babyturtle/babyturtle_bone_41
+    400080: creature/babyturtle/babyturtle_bone_42
+    400082: creature/babyturtle/babyturtle_bone_43
+    400084: creature/babyturtle/babyturtle_bone_44
+    400086: creature/babyturtle/babyturtle_bone_45
+    400088: creature/babyturtle/babyturtle_bone_46
+    400090: creature/babyturtle/babyturtle_bone_47
+    400092: creature/babyturtle/babyturtle_bone_48
+    400094: creature/babyturtle/babyturtle_bone_49
+    400096: creature/babyturtle/babyturtle_bone_5
+    400098: creature/babyturtle/babyturtle_bone_50
+    400100: creature/babyturtle/babyturtle_bone_51
+    400102: creature/babyturtle/babyturtle_bone_52
+    400104: creature/babyturtle/babyturtle_bone_53
+    400106: creature/babyturtle/babyturtle_bone_54
+    400108: creature/babyturtle/babyturtle_bone_55
+    400110: creature/babyturtle/babyturtle_bone_56
+    400112: creature/babyturtle/babyturtle_bone_6
+    400114: creature/babyturtle/babyturtle_bone_7
+    400116: creature/babyturtle/babyturtle_bone_8
+    400118: creature/babyturtle/babyturtle_bone_9
+    2100000: creature_babyturtle_babyturtle_0
+    4300000: creature/babyturtle/babyturtle
+    7400000: Stand [1]
+    7400002: ReadyUnarmed [0]
+    7400004: Stand [2]
+    7400006: Stand [3]
+    7400008: Walk [4]
+    7400010: Run [6]
+    7400012: Sprint [7]
+    7400014: JumpLandRun [5]
+    7400016: CombatWound [9]
+    7400018: StandWound [8]
+    7400020: CombatCritical [10]
+    7400022: CombatWound [12]
+    7400024: StandWound [11]
+    7400026: AttackUnarmed [13]
+    7400028: AttackUnarmed [14]
+    7400030: AttackUnarmed [15]
+    7400032: SpellCast [17]
+    7400034: SpellCastDirected [18]
+    7400036: SpellCastOmni [16]
+    7400038: Death [19]
+    7400040: Swim [21]
+    7400042: SwimBackwards [22]
+    7400044: MountSwimRun [23]
+    7400046: MountSwimSprint [24]
+    7400048: MountSwimBackwards [25]
+    7400050: MountSwimWalkBackwards [26]
+    7400052: MountSwimWalk [20]
+    7400054: SwimIdle [28]
+    7400056: MountSwimIdle [27]
+    7400058: Drown [29]
+    7400060: Drowned [30]
+    7400062: Walkbackwards [31]
+    7400064: ShuffleLeft [32]
+    7400066: ShuffleRight [33]
+    7400068: JumpStart [34]
+    7400070: Jump [36]
+    7400072: Fall [35]
+    7400074: JumpEnd [37]
+    7400076: MountSpecial [38]
+    7400078: SwimRight [40]
+    7400080: MountSwimRight [39]
+    7400082: SwimLeft [42]
+    7400084: MountSwimLeft [41]
+    7400086: Whirlwind [43]
+    7400088: SleepDown [44]
+    7400090: Sleep [46]
+    7400092: Stun [47]
+    7400094: Cower [45]
+    7400096: SleepUp [48]
+    7400098: ChannelCastDirected [50]
+    7400100: ChannelCastOmni [49]
+    7400102: ReadySpellDirected [52]
+    7400104: ReadySpellOmni [51]
+    9500000: //RootNode
+    13700000: creature/babyturtle/babyturtle
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

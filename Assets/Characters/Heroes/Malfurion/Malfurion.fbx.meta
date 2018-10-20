@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: d50c555d7fe77a54dbdeedddfc3b86e8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: creature/malfurion/malfurion
+    100002: creature/malfurion/malfurion 1
+    100004: creature/malfurion/malfurion_bone_0
+    100006: creature/malfurion/malfurion_bone_1
+    100008: creature/malfurion/malfurion_bone_10
+    100010: creature/malfurion/malfurion_bone_100
+    100012: creature/malfurion/malfurion_bone_101
+    100014: creature/malfurion/malfurion_bone_102
+    100016: creature/malfurion/malfurion_bone_103
+    100018: creature/malfurion/malfurion_bone_104
+    100020: creature/malfurion/malfurion_bone_105
+    100022: creature/malfurion/malfurion_bone_106
+    100024: creature/malfurion/malfurion_bone_107
+    100026: creature/malfurion/malfurion_bone_108
+    100028: creature/malfurion/malfurion_bone_109
+    100030: creature/malfurion/malfurion_bone_11
+    100032: creature/malfurion/malfurion_bone_110
+    100034: creature/malfurion/malfurion_bone_111
+    100036: creature/malfurion/malfurion_bone_112
+    100038: creature/malfurion/malfurion_bone_113
+    100040: creature/malfurion/malfurion_bone_114
+    100042: creature/malfurion/malfurion_bone_115
+    100044: creature/malfurion/malfurion_bone_116
+    100046: creature/malfurion/malfurion_bone_117
+    100048: creature/malfurion/malfurion_bone_118
+    100050: creature/malfurion/malfurion_bone_119
+    100052: creature/malfurion/malfurion_bone_12
+    100054: creature/malfurion/malfurion_bone_13
+    100056: creature/malfurion/malfurion_bone_14
+    100058: creature/malfurion/malfurion_bone_15
+    100060: creature/malfurion/malfurion_bone_16
+    100062: creature/malfurion/malfurion_bone_17
+    100064: creature/malfurion/malfurion_bone_18
+    100066: creature/malfurion/malfurion_bone_19
+    100068: creature/malfurion/malfurion_bone_2
+    100070: creature/malfurion/malfurion_bone_20
+    100072: creature/malfurion/malfurion_bone_21
+    100074: creature/malfurion/malfurion_bone_22
+    100076: creature/malfurion/malfurion_bone_23
+    100078: creature/malfurion/malfurion_bone_24
+    100080: creature/malfurion/malfurion_bone_25
+    100082: creature/malfurion/malfurion_bone_26
+    100084: creature/malfurion/malfurion_bone_27
+    100086: creature/malfurion/malfurion_bone_28
+    100088: creature/malfurion/malfurion_bone_29
+    100090: creature/malfurion/malfurion_bone_3
+    100092: creature/malfurion/malfurion_bone_30
+    100094: creature/malfurion/malfurion_bone_31
+    100096: creature/malfurion/malfurion_bone_32
+    100098: creature/malfurion/malfurion_bone_33
+    100100: creature/malfurion/malfurion_bone_34
+    100102: creature/malfurion/malfurion_bone_35
+    100104: creature/malfurion/malfurion_bone_36
+    100106: creature/malfurion/malfurion_bone_37
+    100108: creature/malfurion/malfurion_bone_38
+    100110: creature/malfurion/malfurion_bone_39
+    100112: creature/malfurion/malfurion_bone_4
+    100114: creature/malfurion/malfurion_bone_40
+    100116: creature/malfurion/malfurion_bone_41
+    100118: creature/malfurion/malfurion_bone_42
+    100120: creature/malfurion/malfurion_bone_43
+    100122: creature/malfurion/malfurion_bone_44
+    100124: creature/malfurion/malfurion_bone_45
+    100126: creature/malfurion/malfurion_bone_46
+    100128: creature/malfurion/malfurion_bone_47
+    100130: creature/malfurion/malfurion_bone_48
+    100132: creature/malfurion/malfurion_bone_49
+    100134: creature/malfurion/malfurion_bone_5
+    100136: creature/malfurion/malfurion_bone_50
+    100138: creature/malfurion/malfurion_bone_51
+    100140: creature/malfurion/malfurion_bone_52
+    100142: creature/malfurion/malfurion_bone_53
+    100144: creature/malfurion/malfurion_bone_54
+    100146: creature/malfurion/malfurion_bone_55
+    100148: creature/malfurion/malfurion_bone_56
+    100150: creature/malfurion/malfurion_bone_57
+    100152: creature/malfurion/malfurion_bone_58
+    100154: creature/malfurion/malfurion_bone_59
+    100156: creature/malfurion/malfurion_bone_6
+    100158: creature/malfurion/malfurion_bone_60
+    100160: creature/malfurion/malfurion_bone_61
+    100162: creature/malfurion/malfurion_bone_62
+    100164: creature/malfurion/malfurion_bone_63
+    100166: creature/malfurion/malfurion_bone_64
+    100168: creature/malfurion/malfurion_bone_65
+    100170: creature/malfurion/malfurion_bone_66
+    100172: creature/malfurion/malfurion_bone_67
+    100174: creature/malfurion/malfurion_bone_68
+    100176: creature/malfurion/malfurion_bone_69
+    100178: creature/malfurion/malfurion_bone_7
+    100180: creature/malfurion/malfurion_bone_70
+    100182: creature/malfurion/malfurion_bone_71
+    100184: creature/malfurion/malfurion_bone_72
+    100186: creature/malfurion/malfurion_bone_73
+    100188: creature/malfurion/malfurion_bone_74
+    100190: creature/malfurion/malfurion_bone_75
+    100192: creature/malfurion/malfurion_bone_76
+    100194: creature/malfurion/malfurion_bone_77
+    100196: creature/malfurion/malfurion_bone_78
+    100198: creature/malfurion/malfurion_bone_79
+    100200: creature/malfurion/malfurion_bone_8
+    100202: creature/malfurion/malfurion_bone_80
+    100204: creature/malfurion/malfurion_bone_81
+    100206: creature/malfurion/malfurion_bone_82
+    100208: creature/malfurion/malfurion_bone_83
+    100210: creature/malfurion/malfurion_bone_84
+    100212: creature/malfurion/malfurion_bone_85
+    100214: creature/malfurion/malfurion_bone_86
+    100216: creature/malfurion/malfurion_bone_87
+    100218: creature/malfurion/malfurion_bone_88
+    100220: creature/malfurion/malfurion_bone_89
+    100222: creature/malfurion/malfurion_bone_9
+    100224: creature/malfurion/malfurion_bone_90
+    100226: creature/malfurion/malfurion_bone_91
+    100228: creature/malfurion/malfurion_bone_92
+    100230: creature/malfurion/malfurion_bone_93
+    100232: creature/malfurion/malfurion_bone_94
+    100234: creature/malfurion/malfurion_bone_95
+    100236: creature/malfurion/malfurion_bone_96
+    100238: creature/malfurion/malfurion_bone_97
+    100240: creature/malfurion/malfurion_bone_98
+    100242: creature/malfurion/malfurion_bone_99
+    100244: //RootNode
+    400000: creature/malfurion/malfurion
+    400002: creature/malfurion/malfurion 1
+    400004: creature/malfurion/malfurion_bone_0
+    400006: creature/malfurion/malfurion_bone_1
+    400008: creature/malfurion/malfurion_bone_10
+    400010: creature/malfurion/malfurion_bone_100
+    400012: creature/malfurion/malfurion_bone_101
+    400014: creature/malfurion/malfurion_bone_102
+    400016: creature/malfurion/malfurion_bone_103
+    400018: creature/malfurion/malfurion_bone_104
+    400020: creature/malfurion/malfurion_bone_105
+    400022: creature/malfurion/malfurion_bone_106
+    400024: creature/malfurion/malfurion_bone_107
+    400026: creature/malfurion/malfurion_bone_108
+    400028: creature/malfurion/malfurion_bone_109
+    400030: creature/malfurion/malfurion_bone_11
+    400032: creature/malfurion/malfurion_bone_110
+    400034: creature/malfurion/malfurion_bone_111
+    400036: creature/malfurion/malfurion_bone_112
+    400038: creature/malfurion/malfurion_bone_113
+    400040: creature/malfurion/malfurion_bone_114
+    400042: creature/malfurion/malfurion_bone_115
+    400044: creature/malfurion/malfurion_bone_116
+    400046: creature/malfurion/malfurion_bone_117
+    400048: creature/malfurion/malfurion_bone_118
+    400050: creature/malfurion/malfurion_bone_119
+    400052: creature/malfurion/malfurion_bone_12
+    400054: creature/malfurion/malfurion_bone_13
+    400056: creature/malfurion/malfurion_bone_14
+    400058: creature/malfurion/malfurion_bone_15
+    400060: creature/malfurion/malfurion_bone_16
+    400062: creature/malfurion/malfurion_bone_17
+    400064: creature/malfurion/malfurion_bone_18
+    400066: creature/malfurion/malfurion_bone_19
+    400068: creature/malfurion/malfurion_bone_2
+    400070: creature/malfurion/malfurion_bone_20
+    400072: creature/malfurion/malfurion_bone_21
+    400074: creature/malfurion/malfurion_bone_22
+    400076: creature/malfurion/malfurion_bone_23
+    400078: creature/malfurion/malfurion_bone_24
+    400080: creature/malfurion/malfurion_bone_25
+    400082: creature/malfurion/malfurion_bone_26
+    400084: creature/malfurion/malfurion_bone_27
+    400086: creature/malfurion/malfurion_bone_28
+    400088: creature/malfurion/malfurion_bone_29
+    400090: creature/malfurion/malfurion_bone_3
+    400092: creature/malfurion/malfurion_bone_30
+    400094: creature/malfurion/malfurion_bone_31
+    400096: creature/malfurion/malfurion_bone_32
+    400098: creature/malfurion/malfurion_bone_33
+    400100: creature/malfurion/malfurion_bone_34
+    400102: creature/malfurion/malfurion_bone_35
+    400104: creature/malfurion/malfurion_bone_36
+    400106: creature/malfurion/malfurion_bone_37
+    400108: creature/malfurion/malfurion_bone_38
+    400110: creature/malfurion/malfurion_bone_39
+    400112: creature/malfurion/malfurion_bone_4
+    400114: creature/malfurion/malfurion_bone_40
+    400116: creature/malfurion/malfurion_bone_41
+    400118: creature/malfurion/malfurion_bone_42
+    400120: creature/malfurion/malfurion_bone_43
+    400122: creature/malfurion/malfurion_bone_44
+    400124: creature/malfurion/malfurion_bone_45
+    400126: creature/malfurion/malfurion_bone_46
+    400128: creature/malfurion/malfurion_bone_47
+    400130: creature/malfurion/malfurion_bone_48
+    400132: creature/malfurion/malfurion_bone_49
+    400134: creature/malfurion/malfurion_bone_5
+    400136: creature/malfurion/malfurion_bone_50
+    400138: creature/malfurion/malfurion_bone_51
+    400140: creature/malfurion/malfurion_bone_52
+    400142: creature/malfurion/malfurion_bone_53
+    400144: creature/malfurion/malfurion_bone_54
+    400146: creature/malfurion/malfurion_bone_55
+    400148: creature/malfurion/malfurion_bone_56
+    400150: creature/malfurion/malfurion_bone_57
+    400152: creature/malfurion/malfurion_bone_58
+    400154: creature/malfurion/malfurion_bone_59
+    400156: creature/malfurion/malfurion_bone_6
+    400158: creature/malfurion/malfurion_bone_60
+    400160: creature/malfurion/malfurion_bone_61
+    400162: creature/malfurion/malfurion_bone_62
+    400164: creature/malfurion/malfurion_bone_63
+    400166: creature/malfurion/malfurion_bone_64
+    400168: creature/malfurion/malfurion_bone_65
+    400170: creature/malfurion/malfurion_bone_66
+    400172: creature/malfurion/malfurion_bone_67
+    400174: creature/malfurion/malfurion_bone_68
+    400176: creature/malfurion/malfurion_bone_69
+    400178: creature/malfurion/malfurion_bone_7
+    400180: creature/malfurion/malfurion_bone_70
+    400182: creature/malfurion/malfurion_bone_71
+    400184: creature/malfurion/malfurion_bone_72
+    400186: creature/malfurion/malfurion_bone_73
+    400188: creature/malfurion/malfurion_bone_74
+    400190: creature/malfurion/malfurion_bone_75
+    400192: creature/malfurion/malfurion_bone_76
+    400194: creature/malfurion/malfurion_bone_77
+    400196: creature/malfurion/malfurion_bone_78
+    400198: creature/malfurion/malfurion_bone_79
+    400200: creature/malfurion/malfurion_bone_8
+    400202: creature/malfurion/malfurion_bone_80
+    400204: creature/malfurion/malfurion_bone_81
+    400206: creature/malfurion/malfurion_bone_82
+    400208: creature/malfurion/malfurion_bone_83
+    400210: creature/malfurion/malfurion_bone_84
+    400212: creature/malfurion/malfurion_bone_85
+    400214: creature/malfurion/malfurion_bone_86
+    400216: creature/malfurion/malfurion_bone_87
+    400218: creature/malfurion/malfurion_bone_88
+    400220: creature/malfurion/malfurion_bone_89
+    400222: creature/malfurion/malfurion_bone_9
+    400224: creature/malfurion/malfurion_bone_90
+    400226: creature/malfurion/malfurion_bone_91
+    400228: creature/malfurion/malfurion_bone_92
+    400230: creature/malfurion/malfurion_bone_93
+    400232: creature/malfurion/malfurion_bone_94
+    400234: creature/malfurion/malfurion_bone_95
+    400236: creature/malfurion/malfurion_bone_96
+    400238: creature/malfurion/malfurion_bone_97
+    400240: creature/malfurion/malfurion_bone_98
+    400242: creature/malfurion/malfurion_bone_99
+    400244: //RootNode
+    2100000: creature_malfurion_malfurion_0
+    2100002: creature_malfurion_malfurion_1
+    2100004: creature_malfurion_malfurion_2
+    2100006: creature_malfurion_malfurion_3
+    2100008: creature_malfurion_malfurion_4
+    2100010: creature_malfurion_malfurion_5
+    2100012: creature_malfurion_malfurion_6
+    4300000: creature/malfurion/malfurion
+    7400000: Walk [0]
+    7400002: Run [1]
+    7400004: Stand [2]
+    7400006: Jump [6]
+    7400008: Fall [7]
+    7400010: StandWound [8]
+    7400012: Death [9]
+    7400014: CombatWound [11]
+    7400016: CombatCritical [12]
+    7400018: Stun [14]
+    7400020: ChannelCastDirected [117]
+    7400022: ChannelCastOmni [118]
+    9500000: //RootNode
+    13700000: creature/malfurion/malfurion
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.8
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

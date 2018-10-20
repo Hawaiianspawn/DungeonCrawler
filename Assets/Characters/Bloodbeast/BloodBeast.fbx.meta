@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 4ff2b48a329a6c54cb14f02774e70c2f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: creature/bloodtrollfemalebeast/bloodtrollbeast
+    100004: creature/bloodtrollfemalebeast/bloodtrollbeast 1
+    100006: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_0
+    100008: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_1
+    100010: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_10
+    100012: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_11
+    100014: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_12
+    100016: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_13
+    100018: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_14
+    100020: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_15
+    100022: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_16
+    100024: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_17
+    100026: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_18
+    100028: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_19
+    100030: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_2
+    100032: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_20
+    100034: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_21
+    100036: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_22
+    100038: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_23
+    100040: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_24
+    100042: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_25
+    100044: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_26
+    100046: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_27
+    100048: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_28
+    100050: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_29
+    100052: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_3
+    100054: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_30
+    100056: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_31
+    100058: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_32
+    100060: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_33
+    100062: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_34
+    100064: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_35
+    100066: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_36
+    100068: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_37
+    100070: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_38
+    100072: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_39
+    100074: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_4
+    100076: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_40
+    100078: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_41
+    100080: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_42
+    100082: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_43
+    100084: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_44
+    100086: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_45
+    100088: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_46
+    100090: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_47
+    100092: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_48
+    100094: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_49
+    100096: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_5
+    100098: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_50
+    100100: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_51
+    100102: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_52
+    100104: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_53
+    100106: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_54
+    100108: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_55
+    100110: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_56
+    100112: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_57
+    100114: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_58
+    100116: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_59
+    100118: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_6
+    100120: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_60
+    100122: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_61
+    100124: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_62
+    100126: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_63
+    100128: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_64
+    100130: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_65
+    100132: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_66
+    100134: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_67
+    100136: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_68
+    100138: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_69
+    100140: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_7
+    100142: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_70
+    100144: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_71
+    100146: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_72
+    100148: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_73
+    100150: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_74
+    100152: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_75
+    100154: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_76
+    100156: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_77
+    100158: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_78
+    100160: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_79
+    100162: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_8
+    100164: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_80
+    100166: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_81
+    100168: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_82
+    100170: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_83
+    100172: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_84
+    100174: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_85
+    100176: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_86
+    100178: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_87
+    100180: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_88
+    100182: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_89
+    100184: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_9
+    400000: //RootNode
+    400002: creature/bloodtrollfemalebeast/bloodtrollbeast
+    400004: creature/bloodtrollfemalebeast/bloodtrollbeast 1
+    400006: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_0
+    400008: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_1
+    400010: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_10
+    400012: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_11
+    400014: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_12
+    400016: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_13
+    400018: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_14
+    400020: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_15
+    400022: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_16
+    400024: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_17
+    400026: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_18
+    400028: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_19
+    400030: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_2
+    400032: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_20
+    400034: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_21
+    400036: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_22
+    400038: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_23
+    400040: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_24
+    400042: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_25
+    400044: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_26
+    400046: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_27
+    400048: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_28
+    400050: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_29
+    400052: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_3
+    400054: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_30
+    400056: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_31
+    400058: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_32
+    400060: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_33
+    400062: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_34
+    400064: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_35
+    400066: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_36
+    400068: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_37
+    400070: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_38
+    400072: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_39
+    400074: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_4
+    400076: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_40
+    400078: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_41
+    400080: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_42
+    400082: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_43
+    400084: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_44
+    400086: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_45
+    400088: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_46
+    400090: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_47
+    400092: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_48
+    400094: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_49
+    400096: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_5
+    400098: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_50
+    400100: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_51
+    400102: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_52
+    400104: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_53
+    400106: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_54
+    400108: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_55
+    400110: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_56
+    400112: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_57
+    400114: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_58
+    400116: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_59
+    400118: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_6
+    400120: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_60
+    400122: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_61
+    400124: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_62
+    400126: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_63
+    400128: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_64
+    400130: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_65
+    400132: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_66
+    400134: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_67
+    400136: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_68
+    400138: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_69
+    400140: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_7
+    400142: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_70
+    400144: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_71
+    400146: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_72
+    400148: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_73
+    400150: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_74
+    400152: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_75
+    400154: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_76
+    400156: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_77
+    400158: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_78
+    400160: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_79
+    400162: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_8
+    400164: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_80
+    400166: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_81
+    400168: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_82
+    400170: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_83
+    400172: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_84
+    400174: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_85
+    400176: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_86
+    400178: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_87
+    400180: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_88
+    400182: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_89
+    400184: creature/bloodtrollfemalebeast/bloodtrollbeast_bone_9
+    2100000: creature_bloodtrollfemalebeast_bloodtrollbeast_0
+    4300000: creature/bloodtrollfemalebeast/bloodtrollbeast
+    7400000: Stun [0]
+    7400002: ShuffleRight [1]
+    7400004: ShuffleLeft [2]
+    7400006: Jump [4]
+    7400008: Fall [3]
+    7400010: JumpEnd [5]
+    7400012: JumpStart [6]
+    7400014: Walkbackwards [8]
+    7400016: FuturePatch72 [7]
+    7400018: AttackUnarmed [9]
+    7400020: AttackUnarmed [11]
+    7400022: SpecialUnarmed [10]
+    7400024: Death [12]
+    7400026: SwimRight [14]
+    7400028: MountSwimRight [13]
+    7400030: CombatWound [15]
+    7400032: Stand [16]
+    7400034: Walk [17]
+    7400036: Run [19]
+    7400038: Sprint [20]
+    7400040: JumpLandRun [18]
+    7400042: SwimLeft [22]
+    7400044: MountSwimLeft [21]
+    7400046: SwimBackwards [24]
+    7400048: MountSwimBackwards [25]
+    7400050: MountSwimWalkBackwards [23]
+    7400052: Drowned [26]
+    7400054: Drown [27]
+    7400056: Swim [29]
+    7400058: MountSwimWalk [30]
+    7400060: MountSwimRun [31]
+    7400062: MountSwimSprint [28]
+    7400064: SwimIdle [33]
+    7400066: MountSwimIdle [32]
+    7400068: MountSpecial [35]
+    7400070: EmoteRoar [34]
+    7400072: ReadyUnarmed [36]
+    7400074: EmoteEat [38]
+    7400076: Cannibalize [37]
+    7400078: Stand [39]
+    7400080: DragonStomp [40]
+    9500000: //RootNode
+    13700000: creature/bloodtrollfemalebeast/bloodtrollbeast
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

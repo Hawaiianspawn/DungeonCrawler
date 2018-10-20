@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: a94acf30ec265ef47be75b7c13a76287
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: creature/illidan2/illidan2
+    100002: creature/illidan2/illidan2 1
+    100004: creature/illidan2/illidan2_bone_0
+    100006: creature/illidan2/illidan2_bone_1
+    100008: creature/illidan2/illidan2_bone_10
+    100010: creature/illidan2/illidan2_bone_100
+    100012: creature/illidan2/illidan2_bone_101
+    100014: creature/illidan2/illidan2_bone_102
+    100016: creature/illidan2/illidan2_bone_103
+    100018: creature/illidan2/illidan2_bone_104
+    100020: creature/illidan2/illidan2_bone_105
+    100022: creature/illidan2/illidan2_bone_106
+    100024: creature/illidan2/illidan2_bone_107
+    100026: creature/illidan2/illidan2_bone_108
+    100028: creature/illidan2/illidan2_bone_109
+    100030: creature/illidan2/illidan2_bone_11
+    100032: creature/illidan2/illidan2_bone_110
+    100034: creature/illidan2/illidan2_bone_111
+    100036: creature/illidan2/illidan2_bone_112
+    100038: creature/illidan2/illidan2_bone_113
+    100040: creature/illidan2/illidan2_bone_114
+    100042: creature/illidan2/illidan2_bone_115
+    100044: creature/illidan2/illidan2_bone_116
+    100046: creature/illidan2/illidan2_bone_117
+    100048: creature/illidan2/illidan2_bone_118
+    100050: creature/illidan2/illidan2_bone_119
+    100052: creature/illidan2/illidan2_bone_12
+    100054: creature/illidan2/illidan2_bone_120
+    100056: creature/illidan2/illidan2_bone_121
+    100058: creature/illidan2/illidan2_bone_122
+    100060: creature/illidan2/illidan2_bone_123
+    100062: creature/illidan2/illidan2_bone_124
+    100064: creature/illidan2/illidan2_bone_125
+    100066: creature/illidan2/illidan2_bone_126
+    100068: creature/illidan2/illidan2_bone_13
+    100070: creature/illidan2/illidan2_bone_14
+    100072: creature/illidan2/illidan2_bone_15
+    100074: creature/illidan2/illidan2_bone_16
+    100076: creature/illidan2/illidan2_bone_17
+    100078: creature/illidan2/illidan2_bone_18
+    100080: creature/illidan2/illidan2_bone_19
+    100082: creature/illidan2/illidan2_bone_2
+    100084: creature/illidan2/illidan2_bone_20
+    100086: creature/illidan2/illidan2_bone_21
+    100088: creature/illidan2/illidan2_bone_22
+    100090: creature/illidan2/illidan2_bone_23
+    100092: creature/illidan2/illidan2_bone_24
+    100094: creature/illidan2/illidan2_bone_25
+    100096: creature/illidan2/illidan2_bone_26
+    100098: creature/illidan2/illidan2_bone_27
+    100100: creature/illidan2/illidan2_bone_28
+    100102: creature/illidan2/illidan2_bone_29
+    100104: creature/illidan2/illidan2_bone_3
+    100106: creature/illidan2/illidan2_bone_30
+    100108: creature/illidan2/illidan2_bone_31
+    100110: creature/illidan2/illidan2_bone_32
+    100112: creature/illidan2/illidan2_bone_33
+    100114: creature/illidan2/illidan2_bone_34
+    100116: creature/illidan2/illidan2_bone_35
+    100118: creature/illidan2/illidan2_bone_36
+    100120: creature/illidan2/illidan2_bone_37
+    100122: creature/illidan2/illidan2_bone_38
+    100124: creature/illidan2/illidan2_bone_39
+    100126: creature/illidan2/illidan2_bone_4
+    100128: creature/illidan2/illidan2_bone_40
+    100130: creature/illidan2/illidan2_bone_41
+    100132: creature/illidan2/illidan2_bone_42
+    100134: creature/illidan2/illidan2_bone_43
+    100136: creature/illidan2/illidan2_bone_44
+    100138: creature/illidan2/illidan2_bone_45
+    100140: creature/illidan2/illidan2_bone_46
+    100142: creature/illidan2/illidan2_bone_47
+    100144: creature/illidan2/illidan2_bone_48
+    100146: creature/illidan2/illidan2_bone_49
+    100148: creature/illidan2/illidan2_bone_5
+    100150: creature/illidan2/illidan2_bone_50
+    100152: creature/illidan2/illidan2_bone_51
+    100154: creature/illidan2/illidan2_bone_52
+    100156: creature/illidan2/illidan2_bone_53
+    100158: creature/illidan2/illidan2_bone_54
+    100160: creature/illidan2/illidan2_bone_55
+    100162: creature/illidan2/illidan2_bone_56
+    100164: creature/illidan2/illidan2_bone_57
+    100166: creature/illidan2/illidan2_bone_58
+    100168: creature/illidan2/illidan2_bone_59
+    100170: creature/illidan2/illidan2_bone_6
+    100172: creature/illidan2/illidan2_bone_60
+    100174: creature/illidan2/illidan2_bone_61
+    100176: creature/illidan2/illidan2_bone_62
+    100178: creature/illidan2/illidan2_bone_63
+    100180: creature/illidan2/illidan2_bone_64
+    100182: creature/illidan2/illidan2_bone_65
+    100184: creature/illidan2/illidan2_bone_66
+    100186: creature/illidan2/illidan2_bone_67
+    100188: creature/illidan2/illidan2_bone_68
+    100190: creature/illidan2/illidan2_bone_69
+    100192: creature/illidan2/illidan2_bone_7
+    100194: creature/illidan2/illidan2_bone_70
+    100196: creature/illidan2/illidan2_bone_71
+    100198: creature/illidan2/illidan2_bone_72
+    100200: creature/illidan2/illidan2_bone_73
+    100202: creature/illidan2/illidan2_bone_74
+    100204: creature/illidan2/illidan2_bone_75
+    100206: creature/illidan2/illidan2_bone_76
+    100208: creature/illidan2/illidan2_bone_77
+    100210: creature/illidan2/illidan2_bone_78
+    100212: creature/illidan2/illidan2_bone_79
+    100214: creature/illidan2/illidan2_bone_8
+    100216: creature/illidan2/illidan2_bone_80
+    100218: creature/illidan2/illidan2_bone_81
+    100220: creature/illidan2/illidan2_bone_82
+    100222: creature/illidan2/illidan2_bone_83
+    100224: creature/illidan2/illidan2_bone_84
+    100226: creature/illidan2/illidan2_bone_85
+    100228: creature/illidan2/illidan2_bone_86
+    100230: creature/illidan2/illidan2_bone_87
+    100232: creature/illidan2/illidan2_bone_88
+    100234: creature/illidan2/illidan2_bone_89
+    100236: creature/illidan2/illidan2_bone_9
+    100238: creature/illidan2/illidan2_bone_90
+    100240: creature/illidan2/illidan2_bone_91
+    100242: creature/illidan2/illidan2_bone_92
+    100244: creature/illidan2/illidan2_bone_93
+    100246: creature/illidan2/illidan2_bone_94
+    100248: creature/illidan2/illidan2_bone_95
+    100250: creature/illidan2/illidan2_bone_96
+    100252: creature/illidan2/illidan2_bone_97
+    100254: creature/illidan2/illidan2_bone_98
+    100256: creature/illidan2/illidan2_bone_99
+    100258: //RootNode
+    400000: creature/illidan2/illidan2
+    400002: creature/illidan2/illidan2 1
+    400004: creature/illidan2/illidan2_bone_0
+    400006: creature/illidan2/illidan2_bone_1
+    400008: creature/illidan2/illidan2_bone_10
+    400010: creature/illidan2/illidan2_bone_100
+    400012: creature/illidan2/illidan2_bone_101
+    400014: creature/illidan2/illidan2_bone_102
+    400016: creature/illidan2/illidan2_bone_103
+    400018: creature/illidan2/illidan2_bone_104
+    400020: creature/illidan2/illidan2_bone_105
+    400022: creature/illidan2/illidan2_bone_106
+    400024: creature/illidan2/illidan2_bone_107
+    400026: creature/illidan2/illidan2_bone_108
+    400028: creature/illidan2/illidan2_bone_109
+    400030: creature/illidan2/illidan2_bone_11
+    400032: creature/illidan2/illidan2_bone_110
+    400034: creature/illidan2/illidan2_bone_111
+    400036: creature/illidan2/illidan2_bone_112
+    400038: creature/illidan2/illidan2_bone_113
+    400040: creature/illidan2/illidan2_bone_114
+    400042: creature/illidan2/illidan2_bone_115
+    400044: creature/illidan2/illidan2_bone_116
+    400046: creature/illidan2/illidan2_bone_117
+    400048: creature/illidan2/illidan2_bone_118
+    400050: creature/illidan2/illidan2_bone_119
+    400052: creature/illidan2/illidan2_bone_12
+    400054: creature/illidan2/illidan2_bone_120
+    400056: creature/illidan2/illidan2_bone_121
+    400058: creature/illidan2/illidan2_bone_122
+    400060: creature/illidan2/illidan2_bone_123
+    400062: creature/illidan2/illidan2_bone_124
+    400064: creature/illidan2/illidan2_bone_125
+    400066: creature/illidan2/illidan2_bone_126
+    400068: creature/illidan2/illidan2_bone_13
+    400070: creature/illidan2/illidan2_bone_14
+    400072: creature/illidan2/illidan2_bone_15
+    400074: creature/illidan2/illidan2_bone_16
+    400076: creature/illidan2/illidan2_bone_17
+    400078: creature/illidan2/illidan2_bone_18
+    400080: creature/illidan2/illidan2_bone_19
+    400082: creature/illidan2/illidan2_bone_2
+    400084: creature/illidan2/illidan2_bone_20
+    400086: creature/illidan2/illidan2_bone_21
+    400088: creature/illidan2/illidan2_bone_22
+    400090: creature/illidan2/illidan2_bone_23
+    400092: creature/illidan2/illidan2_bone_24
+    400094: creature/illidan2/illidan2_bone_25
+    400096: creature/illidan2/illidan2_bone_26
+    400098: creature/illidan2/illidan2_bone_27
+    400100: creature/illidan2/illidan2_bone_28
+    400102: creature/illidan2/illidan2_bone_29
+    400104: creature/illidan2/illidan2_bone_3
+    400106: creature/illidan2/illidan2_bone_30
+    400108: creature/illidan2/illidan2_bone_31
+    400110: creature/illidan2/illidan2_bone_32
+    400112: creature/illidan2/illidan2_bone_33
+    400114: creature/illidan2/illidan2_bone_34
+    400116: creature/illidan2/illidan2_bone_35
+    400118: creature/illidan2/illidan2_bone_36
+    400120: creature/illidan2/illidan2_bone_37
+    400122: creature/illidan2/illidan2_bone_38
+    400124: creature/illidan2/illidan2_bone_39
+    400126: creature/illidan2/illidan2_bone_4
+    400128: creature/illidan2/illidan2_bone_40
+    400130: creature/illidan2/illidan2_bone_41
+    400132: creature/illidan2/illidan2_bone_42
+    400134: creature/illidan2/illidan2_bone_43
+    400136: creature/illidan2/illidan2_bone_44
+    400138: creature/illidan2/illidan2_bone_45
+    400140: creature/illidan2/illidan2_bone_46
+    400142: creature/illidan2/illidan2_bone_47
+    400144: creature/illidan2/illidan2_bone_48
+    400146: creature/illidan2/illidan2_bone_49
+    400148: creature/illidan2/illidan2_bone_5
+    400150: creature/illidan2/illidan2_bone_50
+    400152: creature/illidan2/illidan2_bone_51
+    400154: creature/illidan2/illidan2_bone_52
+    400156: creature/illidan2/illidan2_bone_53
+    400158: creature/illidan2/illidan2_bone_54
+    400160: creature/illidan2/illidan2_bone_55
+    400162: creature/illidan2/illidan2_bone_56
+    400164: creature/illidan2/illidan2_bone_57
+    400166: creature/illidan2/illidan2_bone_58
+    400168: creature/illidan2/illidan2_bone_59
+    400170: creature/illidan2/illidan2_bone_6
+    400172: creature/illidan2/illidan2_bone_60
+    400174: creature/illidan2/illidan2_bone_61
+    400176: creature/illidan2/illidan2_bone_62
+    400178: creature/illidan2/illidan2_bone_63
+    400180: creature/illidan2/illidan2_bone_64
+    400182: creature/illidan2/illidan2_bone_65
+    400184: creature/illidan2/illidan2_bone_66
+    400186: creature/illidan2/illidan2_bone_67
+    400188: creature/illidan2/illidan2_bone_68
+    400190: creature/illidan2/illidan2_bone_69
+    400192: creature/illidan2/illidan2_bone_7
+    400194: creature/illidan2/illidan2_bone_70
+    400196: creature/illidan2/illidan2_bone_71
+    400198: creature/illidan2/illidan2_bone_72
+    400200: creature/illidan2/illidan2_bone_73
+    400202: creature/illidan2/illidan2_bone_74
+    400204: creature/illidan2/illidan2_bone_75
+    400206: creature/illidan2/illidan2_bone_76
+    400208: creature/illidan2/illidan2_bone_77
+    400210: creature/illidan2/illidan2_bone_78
+    400212: creature/illidan2/illidan2_bone_79
+    400214: creature/illidan2/illidan2_bone_8
+    400216: creature/illidan2/illidan2_bone_80
+    400218: creature/illidan2/illidan2_bone_81
+    400220: creature/illidan2/illidan2_bone_82
+    400222: creature/illidan2/illidan2_bone_83
+    400224: creature/illidan2/illidan2_bone_84
+    400226: creature/illidan2/illidan2_bone_85
+    400228: creature/illidan2/illidan2_bone_86
+    400230: creature/illidan2/illidan2_bone_87
+    400232: creature/illidan2/illidan2_bone_88
+    400234: creature/illidan2/illidan2_bone_89
+    400236: creature/illidan2/illidan2_bone_9
+    400238: creature/illidan2/illidan2_bone_90
+    400240: creature/illidan2/illidan2_bone_91
+    400242: creature/illidan2/illidan2_bone_92
+    400244: creature/illidan2/illidan2_bone_93
+    400246: creature/illidan2/illidan2_bone_94
+    400248: creature/illidan2/illidan2_bone_95
+    400250: creature/illidan2/illidan2_bone_96
+    400252: creature/illidan2/illidan2_bone_97
+    400254: creature/illidan2/illidan2_bone_98
+    400256: creature/illidan2/illidan2_bone_99
+    400258: //RootNode
+    2100000: creature_illidan2_illidan2_0
+    2100002: creature_illidan2_illidan2_1
+    4300000: creature/illidan2/illidan2
+    7400000: Attack1H [0]
+    7400002: AttackOff [1]
+    7400004: AttackOff [2]
+    7400006: Stand [10]
+    7400008: Land [11]
+    7400010: LiftOff [12]
+    7400012: Ready1H [13]
+    7400014: Run [16]
+    7400016: Sprint [15]
+    7400018: Walk [17]
+    7400020: Fly [27]
+    7400022: DruidCatRip [28]
+    9500000: //RootNode
+    13700000: creature/illidan2/illidan2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.4
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.003
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

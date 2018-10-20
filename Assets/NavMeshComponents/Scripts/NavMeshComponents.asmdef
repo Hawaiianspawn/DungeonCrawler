@@ -1,0 +1,11 @@
+{
+    "name": "NavMeshComponents",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Android",
+        "iOS"
+    ],
+    "allowUnsafeCode": false
+}

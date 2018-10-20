@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b75c5c995b97be544857caa0c5ba665c, type: 3}
+  m_Name: HeroState
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: bf1e9611f1aa00045adab594ca9dc268, type: 2}
+  - {fileID: 11400000, guid: 4a9ec9076ef2bb4408870f8f4cb311a2, type: 2}
+  transitions:
+  - decision: {fileID: 11400000, guid: d9d788573cc018340bf52651d9808607, type: 2}
+    trueState: {fileID: 11400000, guid: 33ec4942f509c2246b6f58cbe90d36c8, type: 2}
+    falseState: {fileID: 11400000, guid: 33ec4942f509c2246b6f58cbe90d36c8, type: 2}
+  StateColor: {r: 0, g: 0, b: 0, a: 0}
